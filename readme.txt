@@ -20,3 +20,6 @@ git clone <repository-url>
 
 # Pull latest changes from remote
 git pull # Update local repository with remote changes
+
+# Merge changes from master branch
+git merge master # Merge master branch into current branch
